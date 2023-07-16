@@ -1,7 +1,8 @@
 <?php 
     $page = 'dashboard'; 
     include('head.php'); 
-    include('sidebar.php');   
+    include('sidebar.php');
+    //suzume - @Suzume2023   
 ?>
   
       <div id="main">
